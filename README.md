@@ -9,9 +9,11 @@ This package is the **Analytic Engine** in the RunWith-IT stack.
 4. gulp (do via `npm install -g gulp`)
 
 ## Instructions (WIP - This is just to test r-statistics)
-1. `gulp  # This builds the src to the dist directory`
-2. `cd dist`
-3. `node r-adapter.js  # This is a test file and for testing r-statistics with node.`
+1. `npm install -g gulp`
+2. `npm install`
+3. `gulp  # This builds the src to the dist directory`
+4. `cd dist`
+5. `node r-adapter.js  # This is a test file and for testing r-statistics with node.`
 
 ## Structure
 * r-modules/ - Contains *.R files which is called by the javascript files in src/ directory.
