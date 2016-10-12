@@ -1,5 +1,5 @@
 # IDE crap.
-.idea/
+/.idea/
 
 # NPM
 node_modules/
