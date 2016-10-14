@@ -19,6 +19,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "r-script": "0.0.3",
+    "request": "^2.75.0",
     "validate-arguments": "0.0.8"
   },
   "devDependencies": {
